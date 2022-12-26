@@ -4,7 +4,8 @@ A deep learning based toolkit for image object detection and trait analysis of w
 
 ## Sources
 
-* link
+* [lensfunpy](https://pypi.org/project/lensfunpy/)
+* 
 
 ## References
 
