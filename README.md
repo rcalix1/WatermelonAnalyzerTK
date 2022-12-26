@@ -12,7 +12,7 @@ Ricardo A. Calix, Ph.D.
 
 ## Collaborators
 
-Dr. Cecilia McGregor
+Dr. Cecilia McGregor <space>
 McGregor Lab
 University of Georgia
 
