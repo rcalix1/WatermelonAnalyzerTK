@@ -8,7 +8,8 @@ A deep learning based toolkit for image object detection and trait analysis of w
 
 ## References
 
-*
+* [A Digital Image-Based Phenotyping Platform for Analyzing Root Shape Attributes in Carrot](https://www.frontiersin.org/articles/10.3389/fpls.2021.690031/full)
+* paper
 
 ## Contact
 
