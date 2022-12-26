@@ -1,6 +1,6 @@
 # WatermelonAnalyzerTK
 
-* link
+An AI based toolkit for image object detection and trait analysis of watermelon for use in genetic phenotyping.
 
 ## Sources
 
