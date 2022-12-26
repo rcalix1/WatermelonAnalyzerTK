@@ -5,7 +5,7 @@ A deep learning based toolkit for image object detection and trait analysis of w
 ## Sources
 
 * [lensfunpy](https://pypi.org/project/lensfunpy/)
-* 
+* [shbrainard/carrot-phenotyping](https://github.com/shbrainard/carrot-phenotyping)
 
 ## References
 
