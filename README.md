@@ -1,6 +1,6 @@
 # WatermelonAnalyzerTK
 
-A deppe learning based toolkit for image object detection and trait analysis of watermelon for use in genetic phenotyping.
+A deep learning based toolkit for image object detection and trait analysis of watermelon for use in genetic phenotyping.
 
 ## Sources
 
